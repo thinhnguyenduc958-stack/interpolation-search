@@ -1,0 +1,6 @@
+{
+  "name": "Interpolation Search - Tìm Kiếm Nội Suy",
+  "description": "Khám phá cách thuật toán ước lượng vị trí phần tử cần tìm thay vì luôn chia đôi mảng. Nền tảng học thuật toán tương tác trực quan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
